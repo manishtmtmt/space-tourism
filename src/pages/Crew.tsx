@@ -1,7 +1,7 @@
 import { useState } from "react";
 
-import Navbar from "@/components/Navbar";
 import CrewPerson from "@/components/CrewPerson";
+import Navbar from "@/components/Navbar";
 import data from "../data.json";
 
 const Crew = () => {

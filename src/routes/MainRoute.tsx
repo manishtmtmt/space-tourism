@@ -1,8 +1,8 @@
 import Crew from "@/pages/Crew";
 import Destination from "@/pages/Destination";
-import Home from "@/pages/Home"
+import Home from "@/pages/Home";
 import Technology from "@/pages/Technology";
-import { Route, Routes } from "react-router-dom"
+import { Route, Routes } from "react-router-dom";
 
 const MainRoute = () => {
   return (

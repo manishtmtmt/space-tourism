@@ -1,4 +1,5 @@
 import { Link, useLocation } from "react-router-dom";
+
 import Logo from "/assets/shared/logo.svg";
 
 const Navbar = () => {
