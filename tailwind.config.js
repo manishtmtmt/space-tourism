@@ -72,24 +72,24 @@ module.exports = {
         "accordion-up": "accordion-up 0.2s ease-out",
       },
       backgroundImage: {
-        "home-desktop": "url('/src/assets/home/background-home-desktop.jpg')",
-        "home-mobile": "url('/src/assets/home/background-home-mobile.jpg')",
-        "home-tablet": "url('/src/assets/home/background-home-tablet.jpg')",
+        "home-desktop": "url('/assets/home/background-home-desktop.jpg')",
+        "home-mobile": "url('/assets/home/background-home-mobile.jpg')",
+        "home-tablet": "url('/assets/home/background-home-tablet.jpg')",
         "destination-desktop":
-          "url('/src/assets/destination/background-destination-desktop.jpg')",
+          "url('/assets/destination/background-destination-desktop.jpg')",
         "destination-mobile":
-          "url('/src/assets/destination/background-destination-mobile.jpg')",
+          "url('/assets/destination/background-destination-mobile.jpg')",
         "destination-tablet":
-          "url('/src/assets/destination/background-destination-tablet.jpg')",
-        "crew-desktop": "url('/src/assets/crew/background-crew-desktop.jpg')",
-        "crew-tablet": "url('/src/assets/crew/background-crew-tablet.jpg')",
-        "crew-mobile": "url('/src/assets/crew/background-crew-mobile.jpg')",
+          "url('/assets/destination/background-destination-tablet.jpg')",
+        "crew-desktop": "url('/assets/crew/background-crew-desktop.jpg')",
+        "crew-tablet": "url('/assets/crew/background-crew-tablet.jpg')",
+        "crew-mobile": "url('/assets/crew/background-crew-mobile.jpg')",
         "technology-desktop":
-          "url('/src/assets/technology/background-technology-desktop.jpg')",
+          "url('/assets/technology/background-technology-desktop.jpg')",
         "technology-tablet":
-          "url('/src/assets/technology/background-technology-tablet.jpg')",
+          "url('/assets/technology/background-technology-tablet.jpg')",
         "technology-mobile":
-          "url('/src/assets/technology/background-technology-mobile.jpg')",
+          "url('/assets/technology/background-technology-mobile.jpg')",
       },
     },
   },
